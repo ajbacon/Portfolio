@@ -1,6 +1,6 @@
 # Week 2
 
-[Monday / Tuesday](## Monday / Tuesday)
+[Monday / Tuesday](#monday-/-tuesday)
 
 A weekly journal to keep track of the work I am doing towards each of the goals.
 
