@@ -1,6 +1,6 @@
 # Week 2
 
-[Monday / Tuesday](#Monday--Tuesday)
+[Monday / Tuesday](#monday--tuesday) | [Monday / Tuesday](#wednesday--thursday) | [Friday](#friday)
 
 A weekly journal to keep track of the work I am doing towards each of the goals.
 
@@ -18,6 +18,8 @@ A weekly journal to keep track of the work I am doing towards each of the goals.
 ------
 ## Monday / Tuesday
 
+
+**Goals**
 - **Goal**: Study and understand the basic OO principles (SRP, encapsulation, Abstraction, Polymorphism, Inheritance)
 - **Plan**: Work through the course material, make snd store notes
 - **Evidence**: 
@@ -27,7 +29,7 @@ A weekly journal to keep track of the work I am doing towards each of the goals.
 - **Evidence**: Attended the first available workshop. 
 
 `
-## Wednesday / Thursday**
+## Wednesday / Thursday
 
 - **Goal** Be comfortable with doubles/mocks/stubs and dependency injection to isolate class testing
 - **Plan** 
@@ -36,7 +38,7 @@ A weekly journal to keep track of the work I am doing towards each of the goals.
 
 
 ------
-## Reflections
+## Week Reflections
 
 ### Summary
 
@@ -56,8 +58,3 @@ The TDD side of things were slightly more frustrating. I was comfortable with th
 
 - More reading required on 
 - Rs
-
-
-
-### Summary
-
