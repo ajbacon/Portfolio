@@ -1,6 +1,6 @@
 # Week 2
 
-[Monday / Tuesday](#monday--tuesday) | [Monday / Tuesday](#wednesday--thursday) | [Friday](#friday)
+[Monday / Tuesday](#monday--tuesday) | [Monday / Tuesday](#wednesday--thursday) | [Friday](#friday--weekend)
 
 A weekly journal to keep track of the work I am doing towards each of the goals.
 
@@ -33,7 +33,10 @@ A weekly journal to keep track of the work I am doing towards each of the goals.
 - Be comfortable with doubles/mocks/stubs and dependency injection to isolate class testing
 - **Plan** 
 
-## Friday
+## Friday / Weekend
+
+- Complete weekend challenge
+- If time, refresh on javascript (can use freecodecamp)
 
 
 ------

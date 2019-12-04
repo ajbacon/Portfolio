@@ -1,6 +1,6 @@
 # Week 2
 
-[Monday / Tuesday](#monday--tuesday) | [Monday / Tuesday](#wednesday--thursday) | [Friday](#friday)
+[Monday / Tuesday](#monday--tuesday) | [Wednesday / Thursday](#wednesday--thursday) | [Friday](#friday)
 
 A weekly journal to keep track of the work I am doing towards each of the goals.
 
