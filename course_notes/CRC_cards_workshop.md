@@ -1,4 +1,6 @@
-# CRC Cards Workshop
+# CRC (Class Responsibility Collaborator) Cards Workshop
+
+
 
 [Workshop Link](https://github.com/makersacademy/skills-workshops/tree/master/week-4/domain_modelling_student_directory_using_crc_cards)
 
