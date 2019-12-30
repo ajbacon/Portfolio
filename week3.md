@@ -18,13 +18,14 @@ A weekly journal to keep track of the work I am doing towards each of the goals.
 ## Monday / Tuesday
 
 **Goals**
-- Study and understand the basics of how the web works and 
+- Study and understand the basics of how the web works
 - Understand and diagram the MVC pattern
-- Build simple web application (start)
+- Start building simple web application 
 
 **Reflection and Evidence**
 
-- Understanding the basics of the web was a reading/research task. All notes can
+- Did some reading/research into the basics of web. Notes can be found [here]()
+- Used the afternoon pairing challenge to start building a web application
 
 
 
@@ -32,7 +33,7 @@ A weekly journal to keep track of the work I am doing towards each of the goals.
 
 **Goal** 
 - Develop better process for 
-- Build simple web application
+- continue building simple web application
 - **Plan** 
 
 ## Friday

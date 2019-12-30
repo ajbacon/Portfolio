@@ -1,6 +1,6 @@
 # Week 2
 
-[Monday / Tuesday](#monday--tuesday) | [Wednesday / Thursday](#wednesday--thursday) | [Friday](#friday)
+[Monday / Tuesday](#monday--tuesday) | [Wednesday / Thursday](#wednesday--thursday) | [Friday / Weekend](#friday--weekend)
 
 A weekly journal to keep track of the work I am doing towards each of the goals.
 
@@ -37,11 +37,29 @@ A weekly journal to keep track of the work I am doing towards each of the goals.
 - Be comfortable with doubles/mocks/stubs and dependency injection to isolate class testing
 
 **Reflection and Evidence**
+- Used the oystercard challenge to focus on TDD. Solution [here](https://github.com/ajbacon/oystercard_challenge)
+- Any useful notes and links to so with TDD are collated in this [link](https://github.com/ajbacon/Portfolio/blob/master/course_notes/TDD_notes.md)
 
-## Friday
+
+## Friday / Weekend
 
 - Complete the afternoon project (link) as best as possible
+- More doubles/mocks/stubs and dependency injection practice
 - Start the weekend challenge (as limited time at the weekend to complete)
+
+**Reflection and Evidence**
+- Didn't seem to get as far as i'd liked with understanding of doubles/mocks by friday afternoon 
+- Used the quiet time alone doing the weekend challenge to really study and practice this aspect, which was really beneficial
+- Managed to get all the user stories complete for the weekend challenge following a strict TDD process and using mocks/doubles/dependency injection to isoloate classes when testing. Enjoyed my first taste of using an API to send a text message confirmation of the order.
+
+------
+
+## Weekly Projects
+
+The afternoon project is with a different partner each afternoon, link to my most complete solution is given below.
+
+Afternoon Project [Oystercard](https://github.com/ajbacon/oystercard_challenge)
+Weekend Challenge [Takeaway](https://github.com/ajbacon/takeaway-challenge)
 
 ------
 ## Week Reflections
@@ -57,12 +75,12 @@ The TDD side of things were slightly more frustrating. I am comfortable with the
 
 ### What to do differently going forward
 
-- Try not to have sole focus on completing the challenges, and when necessary take a step back and read the documentation. 
+- Try not to have sole focus on completing the challenges, and when necessary take a step back and read the documentation/ do research into a concept. 
 - Remember to test state rather than behaviour
 
 ### Knowledge gaps to work on
 
-- More reading required on 
-- Rs
+- More reading required on OO principles to gain fuller understanding, perhaps with some exercises.
+- Keep working on mocks/doubles dependency injection etc
 
-**See this link for todo list**
+**See this [link](https://github.com/ajbacon/Portfolio/blob/master/todo_list.md) for todo list**
