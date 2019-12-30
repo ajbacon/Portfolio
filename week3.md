@@ -1,4 +1,4 @@
-# Week 2
+# Week 3
 
 [Monday / Tuesday](#monday--tuesday) | [Monday / Tuesday](#wednesday--thursday) | [Friday](#friday)
 
@@ -20,24 +20,38 @@ A weekly journal to keep track of the work I am doing towards each of the goals.
 **Goals**
 - Study and understand the basics of how the web works and 
 - Understand and diagram the MVC pattern
-- Build simple web application
+- Build simple web application (start)
 
 **Reflection and Evidence**
 
+- Understanding the basics of the web was a reading/research task. All notes can
 
 
-`
+
 ## Wednesday / Thursday
 
 **Goal** 
-- Be comfortable with doubles/mocks/stubs and dependency injection to isolate class testing
+- Develop better process for 
+- Build simple web application
 - **Plan** 
 
 ## Friday
+- Complete the battle challenge
+- Write refections on the week and catch up with any notes
 
 
 ------
 ## Week Reflections
+
+### What processes/concepts/technologies do you think you've progressed on?
+
+- Have more knowledge on the how the internet works
+- 
+
+### What processes/concepts/technologies do you think require further work?
+
+-
+
 
 ### Summary
 

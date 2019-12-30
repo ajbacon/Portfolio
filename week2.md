@@ -20,33 +20,39 @@ A weekly journal to keep track of the work I am doing towards each of the goals.
 
 
 **Goals**
-- **Goal**: Study and understand the basic OO principles (SRP, encapsulation, Abstraction, Polymorphism, Inheritance)
-- **Plan**: Work through the course material, make snd store notes
-- **Evidence**: 
+- Study and understand the basic OO principles (SRP, encapsulation, Abstraction, Polymorphism, Inheritance)
+- Write more complete notes and keep track of progress/reflections
+- Attend process workshop
 
-- **Goal**: Attend process workshop
-- **Plan**: To attend first available session
-- **Evidence**: Attended the first available workshop. 
-
+**Reflection and Evidence**
+- I conducted plenty of research into the fundamentals of OOP with notes posted [here](https://github.com/ajbacon/Portfolio/blob/master/course_notes/OO_programming_notes.md). 
+- Polymorphism seems to be the most tricky concept to explain (easier to make code polymorphic than to explain!), hence I completed a polymorphism skill workshop to help understanding [here](https://github.com/ajbacon/makers_practicals/tree/master/oo_relationships)
+- I attended the first available process workshop on the Monday, which I found to be very beneficial. It is an unusual experience to have someone watch over you while you code so the more practice I get at this, the better. 
+- Finally, the fact that this document is available is evidence that I am making better notes are 
 `
 ## Wednesday / Thursday
 
-- **Goal** Be comfortable with doubles/mocks/stubs and dependency injection to isolate class testing
-- **Plan** 
+**Goals** 
+- Focus on rigidly sticking to the TDD process 
+- Be comfortable with doubles/mocks/stubs and dependency injection to isolate class testing
+
+**Reflection and Evidence**
 
 ## Friday
 
+- Complete the afternoon project (link) as best as possible
+- Start the weekend challenge (as limited time at the weekend to complete)
 
 ------
 ## Week Reflections
 
 ### Summary
 
-Overall I was pleased with my progress on the ruby programming side of things, I feel I've managed to get comfortable with classes, making them work together and adhere to SRP. I've made good progress in understanding the basic pincipals of object-oriented programming which was one of my main aims of the week. The class extraction exercises within the Oystercard challenge were tricky to conceptualise at first, but by taking a step back from the code and using a pen and paper to diagram my thoughts I was able to move on and code/refactor my solution. 
+Overall I was pleased with my progress on the ruby programming side of things, I feel I've managed to get comfortable with classes, making them work together and adhere to SRP. I've made good progress in understanding the basic pincipals of object-oriented programming which was one of my main aims of the week (although the act of ). The class extraction exercises within the Oystercard challenge were tricky to conceptualise at first, but by taking a step back from the code and using a pen and paper to diagram my thoughts I was able to move on and code/refactor my solution. 
 
-The principles of OO are starting to hit home, more reading and practical experience is required, however I am at least now aware of the principles.
+The principles of OO are starting to hit home, more reading and practical experience is required, however I am at least now aware of the principles and much clearer in my mind what OOP is trying to achieve over other types of programming (eg procedural)
 
-The TDD side of things were slightly more frustrating. I was comfortable with the process of TDD and the steps needed to be taken, but the syntax and use of doubles/mocks/stubs, even by Friday afternoon, was still something I hadn't grasped to my own level of satisfaction. However, having chance to take a step back and work on the weekend challenge on my own in a quiet place I was able to make good progress on how doubles/mocks/stubs work and their utility in isolating classes during testing. There are still holes in my knowledge, which I plan to address with a coach next week, but I finished the weekend in a much happier position than I started it.
+The TDD side of things were slightly more frustrating. I am comfortable with the process of TDD and the steps needed to be taken, but the syntax and use of doubles/mocks/stubs, even by Friday afternoon,was still something I hadn't grasped to my own level of satisfaction. However, having chance to take a step back and work on the weekend challenge on my own in a quiet place I was able to make good progress on how doubles/mocks/stubs work and their utility in isolating classes during testing. There are still holes in my knowledge, which I plan to address with a coach next week, but I finished the weekend in a much happier position than I started it.
 
 
 ### What to do differently going forward
@@ -58,3 +64,5 @@ The TDD side of things were slightly more frustrating. I was comfortable with th
 
 - More reading required on 
 - Rs
+
+**See this link for todo list**
