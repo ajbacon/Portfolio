@@ -12,7 +12,7 @@
 
 ### Setup of Capybara
 
-* Install Firefox: ```brew cask install firefox``
+* Install Firefox: ```brew cask install firefox```
 * List ```capybara``` and ```selenium-webdriver``` in a Gemfile (and ensure ```bundle``` is run)
 * Install Firefox GeckoDriver: ```brew install geckodriver```
 
@@ -22,8 +22,8 @@ By default, Capybara uses the ```:rack_test``` driver, which is fast but limited
 
 
 ### Useful Capybara Links
-[Capybara Cheat Sheet](https://devhints.io/capybara)
-[Another Capybara Cheat Sheet](https://thoughtbot.com/upcase/test-driven-rails-resources/capybara.pdf)
+[Capybara Cheat Sheet](https://devhints.io/capybara)  
+[Another Capybara Cheat Sheet](https://thoughtbot.com/upcase/test-driven-rails-resources/capybara.pdf)  
 
 
 

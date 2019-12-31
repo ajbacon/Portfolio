@@ -75,9 +75,8 @@ An important piece of advice was given during this weeks challenge, and that was
 
 ### What to do differently going forward
 
-- I missed the documentation into RESTful routes, hence the afternoon challenge was not very RESTful. I must 
+- I missed the documentation into RESTful routes, hence the afternoon challenge was not very RESTful. I must focus on RESTful routes in future
 - Remember to keep views clean and controllers skinny (most of the gruntwork should be handled by the model)
-- Remember to test state rather than behaviour
 
 ### Knowledge gaps to work on
 
