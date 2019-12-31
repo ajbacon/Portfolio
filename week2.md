@@ -35,10 +35,12 @@ A weekly journal to keep track of the work I am doing towards each of the goals.
 **Goals** 
 - Focus on rigidly sticking to the TDD process 
 - Be comfortable with doubles/mocks/stubs and dependency injection to isolate class testing
+- Class extraction (break one class into two)
 
 **Reflection and Evidence**
-- Used the oystercard challenge to focus on TDD. Solution [here](https://github.com/ajbacon/oystercard_challenge)
+- Used the afternoon oystercard challenge to focus on TDD. Solution [here](https://github.com/ajbacon/oystercard_challenge)
 - Any useful notes and links to so with TDD are collated in this [link](https://github.com/ajbacon/Portfolio/blob/master/course_notes/TDD_notes.md)
+- Class extraction was done as part of the afternoon challenge, see the link below
 
 
 ## Friday / Weekend
@@ -59,6 +61,7 @@ A weekly journal to keep track of the work I am doing towards each of the goals.
 The afternoon project is with a different partner each afternoon, link to my most complete solution is given below.
 
 Afternoon Project [Oystercard](https://github.com/ajbacon/oystercard_challenge)
+
 Weekend Challenge [Takeaway](https://github.com/ajbacon/takeaway-challenge)
 
 ------
@@ -81,6 +84,6 @@ The TDD side of things were slightly more frustrating. I am comfortable with the
 ### Knowledge gaps to work on
 
 - More reading required on OO principles to gain fuller understanding, perhaps with some exercises.
-- Keep working on mocks/doubles dependency injection etc
+- Keep working on mocks/doubles and dependency injection etc
 
 **See this [link](https://github.com/ajbacon/Portfolio/blob/master/todo_list.md) for todo list**

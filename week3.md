@@ -19,11 +19,9 @@ A weekly journal to keep track of the work I am doing towards each of the goals.
 
 **Goals**
 - Study and understand the basics of how the web works
-- Understand and diagram the MVC pattern
 - Start building simple web application 
 
 **Reflection and Evidence**
-
 - Did some reading/research into the basics of web. Notes can be found [here]()
 - Used the afternoon pairing challenge to start building a web application
 
@@ -32,19 +30,31 @@ A weekly journal to keep track of the work I am doing towards each of the goals.
 ## Wednesday / Thursday
 
 **Goal** 
-- Develop better process for 
+- Understand and diagram the MVC pattern
 - continue building simple web application
-- **Plan** 
+- Attend empathy workshop on Wednesday
+- Attend debugging web apps workshop on Thursday
 
-## Friday
+## Friday / Weekend
 - Complete the battle challenge
+- Complete the weekend challenge
 - Write refections on the week and catch up with any notes
 
 
 ------
+
+## Weekly Projects
+
+The afternoon project is with a different partner each afternoon, link to my most complete solution is given below.
+
+Afternoon Project: [Battle App](https://github.com/ajbacon/oystercard_challenge)
+
+Weekend Challenge: [RPS App](https://github.com/ajbacon/takeaway-challenge)
+
+------
 ## Week Reflections
 
-### What processes/concepts/technologies do you think you've progressed on?
+### What processes/concepts/technologies do you think you've progressed on?`
 
 - Have more knowledge on the how the internet works
 - 
@@ -56,15 +66,22 @@ A weekly journal to keep track of the work I am doing towards each of the goals.
 
 ### Summary
 
-This week was busy with workshops in the morning, which left very little time to complete any further learning exercises. Hence my goals were
+This week was busy with workshops in the morning, which left very little time to complete any further learning exercises/practicals. However I was able to do some research into the basics of the web/internet and MVC pattern, writing some notes on both (links found above). I feel comfortable now with using ruby and organising code into classes hence it was good to be stretched further with adding the controller and views (front-end). We were introduced to Capybara, used to Feature Test interaction with the front-end, the premise and syntax is very similar to rspec used for unit testing, hence all the previous rspec TDD experience made this a much shallower learning curve. 
+
+The weekend RPS challenge essentially went over the same content as the afternoon challenge, a good way to reinforce the learning of the week. Had a chance to play around with front-end and some CSS animations.
+
+An important piece of advice was given during this weeks challenge, and that was not to use Global Variables **EVER!**
 
 
 ### What to do differently going forward
 
-- Try not to have sole focus on completing the challenges, and when necessary take a step back and read the documentation. 
+- I missed the documentation into RESTful routes, hence the afternoon challenge was not very RESTful. I must 
+- Remember to keep views clean and controllers skinny (most of the gruntwork should be handled by the model)
 - Remember to test state rather than behaviour
 
-### Further Reading and Exercises
+### Knowledge gaps to work on
 
-- More reading required on 
-- Rs
+- More reading required on OO principles to gain fuller understanding, perhaps with some exercises.
+- Keep working on mocks/doubles and dependency injection etc
+
+**See this [link](https://github.com/ajbacon/Portfolio/blob/master/todo_list.md) for todo list**
