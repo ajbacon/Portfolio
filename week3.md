@@ -44,6 +44,8 @@ A weekly journal to keep track of the work I am doing towards each of the goals.
 - Complete the weekend challenge
 - Write refections on the week and catch up with any notes
 
+**Reflection and Evidence**
+- RPS challenge was fun, enjoyed using HTML and CSS
 
 ------
 
@@ -73,7 +75,7 @@ An important piece of advice was given during this weeks challenge, and that was
 
 ### Knowledge gaps to work on
 
-- More reading required on OO principles to gain fuller understanding, perhaps with some exercises.
-- Keep working on mocks/doubles and dependency injection etc
+- Research what Rack is
+- What is singleton pattern?
 
 **See this [link](https://github.com/ajbacon/Portfolio/blob/master/todo_list.md) for todo list**
