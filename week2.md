@@ -69,7 +69,7 @@ Weekend Challenge [Takeaway](https://github.com/ajbacon/takeaway-challenge)
 
 ### Summary
 
-Overall I was pleased with my progress on the ruby programming side of things, I feel I've managed to get comfortable with classes, making them work together and adhere to SRP. I've made good progress in understanding the basic pincipals of object-oriented programming which was one of my main aims of the week (although the act of ). The class extraction exercises within the Oystercard challenge were tricky to conceptualise at first, but by taking a step back from the code and using a pen and paper to diagram my thoughts I was able to move on and code/refactor my solution. 
+Overall I was pleased with my progress on the ruby programming side of things, I feel I've managed to get comfortable with classes, making them work together and adhere to SRP. I've made good progress in understanding the basic pincipals of object-oriented programming which was one of my main aims of the week. The class extraction exercises within the Oystercard challenge were tricky to conceptualise at first, but by taking a step back from the code and using a pen and paper to diagram my thoughts I was able to move on and code/refactor my solution. 
 
 The principles of OO are starting to hit home, more reading and practical experience is required, however I am at least now aware of the principles and much clearer in my mind what OOP is trying to achieve over other types of programming (eg procedural)
 

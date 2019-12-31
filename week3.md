@@ -22,20 +22,24 @@ A weekly journal to keep track of the work I am doing towards each of the goals.
 - Start building simple web application 
 
 **Reflection and Evidence**
-- Did some reading/research into the basics of web. Notes can be found [here]()
+- Did some reading/research into the basics of web. Notes can be found [here](https://github.com/ajbacon/Portfolio/blob/master/course_notes/Internet.md)
 - Used the afternoon pairing challenge to start building a web application
-
-
 
 ## Wednesday / Thursday
 
-**Goal** 
+**Goals** 
 - Understand and diagram the MVC pattern
 - continue building simple web application
 - Attend empathy workshop on Wednesday
 - Attend debugging web apps workshop on Thursday
 
+**Reflection and Evidence**
+- Researched the MVP pattern with my notes [here](https://github.com/ajbacon/Portfolio/blob/master/course_notes/mvc_pattern.md)
+- With morning worshops I spent most of my time familiarising myself with the afternoon challenge
+
 ## Friday / Weekend
+
+**Goals** 
 - Complete the battle challenge
 - Complete the weekend challenge
 - Write refections on the week and catch up with any notes
@@ -47,22 +51,11 @@ A weekly journal to keep track of the work I am doing towards each of the goals.
 
 The afternoon project is with a different partner each afternoon, link to my most complete solution is given below.
 
-Afternoon Project: [Battle App](https://github.com/ajbacon/oystercard_challenge)
-
-Weekend Challenge: [RPS App](https://github.com/ajbacon/takeaway-challenge)
+Afternoon Project: [Battle App](https://github.com/ajbacon/Battle2)  
+Weekend Challenge: [RPS App](https://github.com/ajbacon/rps-challenge)  
 
 ------
 ## Week Reflections
-
-### What processes/concepts/technologies do you think you've progressed on?`
-
-- Have more knowledge on the how the internet works
-- 
-
-### What processes/concepts/technologies do you think require further work?
-
--
-
 
 ### Summary
 

@@ -20,8 +20,15 @@ By default, Capybara uses the ```:rack_test``` driver, which is fast but limited
 
 * add ```Capybara.default_driver = :selenium``` and ```Capybara.server = :webrick``` to the spec_helper file.
 
+In the spec_helper.rb file
+* Set ```RACK_ENV=test```
+* Require the Sinatra app file (commonly ```app.rb```), ```capybara/rspec``` and ```rspec```
+* Tell Capybara about the app class using ```Capybara.app = <NameOfAppClass>```
+* When using sinatra, in the app file 
+
 
 ### Useful Capybara Links
+[Capybara README](https://github.com/teamcapybara/capybara/blob/master/README.md)  
 [Capybara Cheat Sheet](https://devhints.io/capybara)  
 [Another Capybara Cheat Sheet](https://thoughtbot.com/upcase/test-driven-rails-resources/capybara.pdf)  
 
